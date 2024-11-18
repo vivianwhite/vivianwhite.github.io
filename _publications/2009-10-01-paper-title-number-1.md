@@ -1,14 +1,13 @@
----
-title: "Paper Title Number 1"
+![image](https://github.com/user-attachments/assets/68057434-1dc9-4b38-94cf-c32094a3aee1)---
+title: "Learning and Aligning Structured Random Feature Networks"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/learning-aligning-srfs
+excerpt: 'Learning and Aligning Structured Random Feature Networks'
+date: 2024-03-02
+venue: 'ICLR Re-Align Workshop'
+paperurl: 'https://openreview.net/pdf?id=vWhUQXQoFF'
+citation: 'Vivian White, Muawiz Sajjad Chaudhary, Guy Wolf, Guillaume Lajoie, and Kameron Decker Harris. Learning and aligning structured random feature networks. In ICLR 2024 Workshop on Representational Alignment, 2024. URL https://openreview.net/forum?id=vWhUQXQoFF.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract:  Artificial neural networks (ANNs) are considered "black boxes" due to the difficulty of interpreting their learned weights. While choosing the best features is not well understood, random feature networks (RFNs) and wavelet scattering ground some ANN learning mechanisms in function space with tractable mathematics. Meanwhile, the genetic code has evolved over millions of years, shaping the brain to develop variable neural circuits with reliable structure that resemble RFNs. We explore a similar approach, embedding neuro-inspired, wavelet-like weights into multilayer RFNs. These can outperform scattering and have kernels that describe their function space at large width. We build learnable and deeper versions of these models where we can optimize separate spatial and channel covariances of the convolutional weight distributions. We find that these networks can perform comparatively with conventional ANNs while dramatically reducing the number of trainable parameters. Channel covariances are most influential, and both weight and activation alignment are needed for classification performance. Our work out lines how neuro-inspired configurations may lead to better performance in key cases and offers a potentially tractable reduced model for ANN learning.
