@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68057434-1dc9-4b38-94cf-c32094a3aee1)---
+---
 title: "Learning and Aligning Structured Random Feature Networks"
 collection: publications
 category: conferences
