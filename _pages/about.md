@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Master's student advised by Dr. Kameron Decker Harris in [WWU's Computational Neuroscience Lab](https://glomerul.us/) graduating in June 2025. I am actively looking for CS PhD programs for Fall 2025 or Fall 2026 where I can combine my passion for computational neuroscience and machine learning to drive scientific advances in understanding the mathematical principles underlying decision-making in deep networks. I am also seeking data science/ML/research internships for Summer 2025.
+I am currently a Computer Science Master's student advised by Dr. Kameron Decker Harris in [WWU's Computational Neuroscience Lab](https://glomerul.us/), graduating in June 2025. This summer, I will intern in the AI & Data Analytics division at Pacific Northwest National Laboratory under Henry Kvinge before starting my PhD in Computer Science at the University of British Columbia in Fall 2025, where I will be studying vision and learning advised by Dr. Evan Shelhamer. I am so excited for all that is to come!
 
 
