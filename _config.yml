@@ -21,7 +21,7 @@ repository               : "vivianwhite/vivianwhite.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp.png"
+  avatar           : "2025_pfp.png"
   name             : "Vivian White"
   pronouns         : "she/her"  
   bio              : "ML researcher"
