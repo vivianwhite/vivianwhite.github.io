@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Funky Icebreakers"
+title: "Icebreakers"
 permalink: /icebreakers/
 author_profile: true
 ---
