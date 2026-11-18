@@ -10,13 +10,13 @@ main:
 
   - title: "Talks"
     url: /talks/   
-    
-  - title: "CV"
-    url: /files/UBC_CV.pdf
-    
+
+  - title: "Icebreakers"
+    url: /icebreakers/
+        
   - title: "SoP Advice"
     url: /sop/
-
-  - title: "Funky Icebreakers"
-    url: /icebreakers/
+    
+    - title: "CV"
+    url: /files/UBC_CV.pdf
 
