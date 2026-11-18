@@ -9,6 +9,6 @@ redirect_from:
 
 I am a second-year Computer Science PhD student advised by Dr. Evan Shelhamer in the [Hammer Lab](https://imaginarynumber.net/research/#group) at The University of British Columbia. Generally, I study learning, vision, and adaptation. My current projects focus on interpretability and energy efficiency of deep computer vision models during test-time adaptation.
 
-I am also passionate about community and service, particularly increasing interest in and accessibility of CS research for people traditionally underrepresented in our field. 
+I am also passionate about community and service, particularly increasing interest in and accessibility of CS research for people traditionally underrepresented in our field. To this end, I co-run UBC's Graduate Women in CS initiative. I currently serve as the VP of Academics for the Computer Science Graduate Student Association. 
 
 
